@@ -316,7 +316,7 @@ a:hover {
 }
 
 #partner {
-  background: url(../images/partners/partner_bg.png) 50% 50% no-repeat;
+  background: url(../images/sacks_quote.png) 50% 50% no-repeat;
   background-size: cover;
 }
 
@@ -330,6 +330,7 @@ a:hover {
   color: #fff;
   font-size:30px;
   font-weight:600;
+	margin-top: 25px;
 }
 
 #partner p {
@@ -501,7 +502,7 @@ a:hover {
 
 .about img {
 	margin-bottom:30px;
-	border-radius:6px;
+	border-radius:50%;
 }
 
 .our-team {
