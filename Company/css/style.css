@@ -1456,3 +1456,13 @@ a.scrollup:hover{
 .answer {position: relative;border: 1px solid #E5E5E5; background-color: #FFF; padding: 20px; margin-top: 30px; margin-left: 10px; margin-right: 10px; border-radius: 3px;}
 .answer:after { content: ''; position: absolute; border-style: solid; border-width: 0 15px 15px; border-color: #FFFFFF transparent; display: block; width: 0; z-index: 1; margin-left: -15px; top: -15px; left: 10%;}
 .answer:before { content: ''; position: absolute; border-style: solid; border-width: 0 15px 15px; border-color: #E5E5E5 transparent; display: block; width: 0; z-index: 0; margin-left: -15px; top: -16px; left: 10%;}
+
+#faq h1 {
+	color: #87BEC1;
+	font-size: 3em;
+}
+#faq .center {
+margin-top: 50px;
+margin-bottom: 30px;
+text-align: center;
+}
