@@ -1513,3 +1513,6 @@ text-align: center;
 	font-size: 30px;
 	display: inline;
 }
+#faq a {
+	color: #87BEC1;
+}
