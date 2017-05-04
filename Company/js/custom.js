@@ -5,5 +5,7 @@ $("#contact-link").click(function() {
 });
 
 $( "#contact-page" ).load( "contact-form.html", function() {
-  // alert( "Load was performed." );
+  $("#formSubmit").click(function () {
+    alert("I'm sorry, my contact form isn't currently working. Please use my contact information to the right to contact me. I'm sorry for any inconvenience.");
+  });
 });
